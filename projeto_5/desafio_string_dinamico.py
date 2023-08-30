@@ -28,3 +28,4 @@ t = 'te'
 print(f'{b}{t}{r}{a} {parte1}{parte2}')
 # Resultado
 # 'bateria eletrônica'
+# fim
