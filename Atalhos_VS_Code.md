@@ -1,9 +1,9 @@
 # Atalhos importantes para produtividade
 
-| [Pythonista Autodidata](https://hotmart.com/pt-BR/club/devaprender/products/2152302)2 - Como receber e trabalhar com dados |
+| [Pythonista Autodidata]                                      |
 | ------------------------------------------------------------ |
 | CTRL-K,C : Comentar o código                                 |
-| CTRL-K,U : Descomentar o código                              |
+| CTRL-K,U : Tirar comentário do código                        |
 | ALT+SHIFT + seta para baixo/cima : duplica linha             |
 | CTRL+B: Habilitar/Desabilitar barra lateral esquerda         |
 | CTRL+': Habilitar/Desabilitar terminal                       |
@@ -14,4 +14,3 @@
 | CTRL+W: Fechar janela                                        |
 | CTRL+(1,2,3,4): Navegar entrar janelas abertas no VS Code    |
 | F12: Navegar até o código fonte                              |
-
